@@ -66,10 +66,10 @@ The dataset includes:
 │   └── dfc_reduced.csv             # Cleaned dataset
 │
 ├── notebooks/
-│   ├── eda.ipynb                   # Exploratory Data Analysis
+│   ├── EDA_analysis.ipynb                   # Exploratory Data Analysis
 │
 ├── dashboards/
-│   └── dialysis_dashboard.twbx     # Tableau dashboard file
+│   └── AE2_assessment.twbx     # Tableau dashboard file
 │
 ├── README.md
 └── requirements.txt                # Python dependencies
