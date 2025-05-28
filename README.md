@@ -66,7 +66,7 @@ The dataset includes:
 │   └── dfc_reduced.csv             # Cleaned dataset
 │
 ├── notebooks/
-│   ├── EDA_analysis.ipynb                   # Exploratory Data Analysis
+│   ├── EDA_Dialysis.ipynb                   # Exploratory Data Analysis
 │
 ├── dashboards/
 │   └── AE2_assessment.twbx     # Tableau dashboard file
